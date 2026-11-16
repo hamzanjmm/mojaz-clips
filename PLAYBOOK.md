@@ -1,0 +1,24 @@
+# mojaz.clips — clipping playbook
+
+Instagram account: mojaz.clips (Windsor instagram account id 17841414555225629). Post with Windsor `create_video_post`, share_to_feed true.
+Video URL pattern: https://raw.githubusercontent.com/hamzanjmm/mojaz-clips/main/out/<file>.mp4
+Content Rewards account: mojazmedia. Joined: Ring Drone Cam, MW4 DMZ, Boxabl.
+
+## Rules (all campaigns)
+- English only. No added music. No AI voice. Official footage only (src/). Keep posts up 30 days, likes visible.
+- Same video max 5 posts. No spam. Post at US/EU hours: 17:00–02:00 Amman.
+- Ring: caption must be one approved caption word for word (includes @Ring #ad). No other tags/hashtags. No added logos.
+  Approved: "first look at the Ring Drone 👀 @Ring #ad" | "Ring just showed off the Ring Drone @Ring #ad" | "Ring just announced the Ring Drone @Ring #ad" | "a closer look at the Ring Drone from @Ring #ad" | "this is the new Ring Drone from @Ring #ad"
+- DMZ: tag @callofduty, "#Ad" on its own line as first hashtag, max 3 more related hashtags, must mention "DMZ gets free access for a limited time", min 10s, no "gameplay" mislabel.
+- Boxabl: tag @boxabl, mention Boxabl/Casita, spell BOXABL right, no stock/ticker, real edit (hook, captions, cuts).
+
+## Day 1 (2026-11-16) schedule, Amman time
+- 17:10 dmz_01 — caption: "DMZ Gets a Big Update in MW4 Season 1 @callofduty\nDMZ gets free access for a limited time\n#Ad\n#MW4 #DMZ #CallofDuty"
+- 19:10 ring_01 — caption: "first look at the Ring Drone 👀 @Ring #ad"
+- 21:10 ring_02 — caption: "a closer look at the Ring Drone from @Ring #ad"
+- 23:30 report to Hamza (Arabic, short): links of today's posts so he submits them on Content Rewards; build day-2 clips.
+
+Log every post in posted.txt (file, time, media id/permalink). Duplicate guard: never post a file already in posted.txt.
+
+## GTA 6 (launches 2026-11-19)
+From launch: priority = GTA 6. Search Content Rewards for GTA 6 clipping campaigns and streamers' official clipping programs; only clip sources that allow it (official program / campaign content folders).
