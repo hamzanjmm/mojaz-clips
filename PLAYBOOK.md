@@ -1,4 +1,7 @@
-# mojaz.clips — clipping playbook
+# Loot Feed — clipping playbook
+
+UPDATE 2026-11-16 15:04: Hamza cancelled all day-1 posts (Ring/DMZ/Boxabl not posted). Brand is now LOOT FEED, GTA 6 ONLY. Instagram username -> lootfeed.clips (name "Loot Feed | GTA 6"), YouTube channel Loot Feed @lootfeedx (Shorts). Same clip goes out as Reel + Short. Do not post Ring/DMZ/Boxabl; leave those campaigns later when Hamza says. Sources: GTA 6 clipping campaigns + streamers with official clipping programs only. YouTube has no posting connector: upload via built-in browser when laptop is online, else send files+titles to Hamza.
+
 
 Instagram account: mojaz.clips (Windsor instagram account id 17841414555225629). Post with Windsor `create_video_post`, share_to_feed true.
 Video URL pattern: https://raw.githubusercontent.com/hamzanjmm/mojaz-clips/main/out/<file>.mp4
