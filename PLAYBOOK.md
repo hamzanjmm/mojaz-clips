@@ -1,5 +1,7 @@
 # Loot Feed — clipping playbook
 
+CAPTIONS RULE (Hamza): every clip gets burned-in dialogue captions (3 words at a time, bold white, last word green, lower third). Get dialogue timing from the source video transcript (YouTube transcript panel via built-in browser) since Whisper models are blocked here.
+
 CLIP LENGTH RULE (Hamza): every Reel/Short must be 20–30 seconds, never longer than 30s.
 
 UPDATE 2026-11-16 15:04: Hamza cancelled all day-1 posts (Ring/DMZ/Boxabl not posted). Brand is now LOOT FEED, GTA 6 ONLY. Instagram username -> lootfeed.clips (name "Loot Feed | GTA 6"), YouTube channel Loot Feed @lootfeedx (Shorts). Same clip goes out as Reel + Short. Do not post Ring/DMZ/Boxabl; leave those campaigns later when Hamza says. Sources: GTA 6 clipping campaigns + streamers with official clipping programs only. YouTube has no posting connector: upload via built-in browser when laptop is online, else send files+titles to Hamza.
