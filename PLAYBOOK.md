@@ -16,7 +16,7 @@ Content Rewards account: mojazmedia. Joined: Ring Drone Cam, MW4 DMZ, Boxabl.
 - 17:10 dmz_01 — caption: "DMZ Gets a Big Update in MW4 Season 1 @callofduty\nDMZ gets free access for a limited time\n#Ad\n#MW4 #DMZ #CallofDuty"
 - 19:10 ring_01 — caption: "first look at the Ring Drone 👀 @Ring #ad"
 - 21:10 ring_02 — caption: "a closer look at the Ring Drone from @Ring #ad"
-- 23:30 report to Hamza (Arabic, short): links of today's posts so he submits them on Content Rewards; build day-2 clips.
+- 23:30 submit + report: Hamza keeps Content Rewards logged in on his laptop's built-in browser. Try to submit each of today's posts there yourself (campaign page -> Submit clip -> paste the Instagram permalink). If the built-in browser is unreachable, send him the links instead. Then a short Arabic report ("يلا نزلت" + what was posted/submitted). Also build day-2 clips; if the laptop is reachable, process the Boxabl zips in ~/Downloads ("4. Most Viewed Shorts-*.zip") into src/boxabl.
 
 Log every post in posted.txt (file, time, media id/permalink). Duplicate guard: never post a file already in posted.txt.
 
